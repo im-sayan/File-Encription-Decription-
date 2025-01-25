@@ -1,4 +1,5 @@
 File Encryption and Decryption Tool
+
 🔒 Overview
 
 This project is a simple yet powerful file encryption and decryption tool that secures sensitive data using modern cryptographic techniques. It can encrypt plaintext into ciphertext and decrypt ciphertext back into plaintext. Ideal for securing messages, files, or sensitive information.
